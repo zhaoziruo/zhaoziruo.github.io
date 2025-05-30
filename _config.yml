@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Ziruo Zhao"
-#description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : 
 repository               : "zhaoziruo/zhaoziruo.github.io"
 #google_scholar_stats_use_cdn : true
 
@@ -23,9 +23,9 @@ repository               : "zhaoziruo/zhaoziruo.github.io"
 author:
   name             : "Ziruo Zhao"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Stevens Institute of Technology"
+  bio              : 
   location         : "Hoboken, US"
-  employer         :
+  employer         : "Stevens Institute of Technology"
   pubmed           : 
   googlescholar    : #"https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "zzhao83@stevens.edu"
