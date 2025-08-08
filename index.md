@@ -4,20 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Ph.D. student in Computer Science at Stevens Institute of Technology. My research interests include mechanistic interpretability, reasoning, and security for large language models (LLMs). Currently, I focus on the privacy vulnerabilities of LLMs, aiming to better understand how these models memorize and expose training data. I am also broadly interested in deep learning theory and optimization.
 
-## Research Interests
+Before beginning my Ph.D., I earned an M.S. in Spatial Economics from the University of Southern California and a B.Sc. in Mathematics with Statistics from Imperial College London.
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
-
-## News
-
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
-
-{% include_relative _includes/publications.md %}
-
-{% include_relative _includes/services.md %}
