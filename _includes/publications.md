@@ -8,9 +8,6 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-12" style="position: relative;padding-right: 15px;padding-left: 15px;">
-      {% if link.conference_short %}
-      <abbr class="badge">{{ link.conference_short }}</abbr>
-      {% endif %}
       <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
       <div class="author">{{ link.authors }}</div>
       <div class="periodical"><em>{{ link.conference }}</em>
