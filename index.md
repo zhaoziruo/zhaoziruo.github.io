@@ -12,7 +12,6 @@ My research interests lie broadly in large language models (LLMs), with a focus 
 
 - **LLM Reasoning and Agentic Systems:** multi-turn reasoning, reinforcement learning for LLMs, and agentic systems
 - **LLM Evaluation:** capabilities, efficiency, reliability, and robustness
-- **AI-Generated Text Detection:** human–AI co-authorship detection and provenance attribution
 
 ## News
 
