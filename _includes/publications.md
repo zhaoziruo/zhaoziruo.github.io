@@ -34,8 +34,7 @@
     </div>
   </div>
 </div>
-</li>
-<br>
+<li style="margin-bottom: 18px;">
 
 {% endfor %}
 
