@@ -11,4 +11,6 @@ main:
 
   - title: "Contrastive Learning with Nasty Noise"
     authors: "<strong>Ziruo Zhao</strong>"
+    conference_short: "arXiv"
+    conference: "arXiv preprint arXiv:2502.17872, 2025."
     pdf: "https://arxiv.org/pdf/2502.17872"
