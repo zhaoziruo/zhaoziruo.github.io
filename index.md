@@ -6,11 +6,12 @@ layout: homepage
 
 I am a Ph.D. student in Computer Science at Stevens Institute of Technology, advised by [Prof. Zining Zhu](https://ecailab.org/). Before beginning my Ph.D., I earned an M.S. in Spatial Economics from the University of Southern California and a B.Sc. in Mathematics with Statistics from Imperial College London.
 
-My research interests lie broadly in large language models (LLMs), with a focus on agentic systems, reasoning, evaluation, and optimization. I am particularly interested in understanding and improving the capabilities, efficiency, and reliability of LLM-based systems. I am also broadly interested in the theoretical foundations of machine learning and deep learning.
+My research focuses on large language models (LLMs), particularly on long-horizon reasoning, agentic systems, and evaluation. I am interested in understanding how LLMs reason and act over extended interactions, coordinate with external tools and agents, and make effective use of information and computational resources. I am also broadly interested in learning theory and optimization.
 
 ## Research Interests
 
-- **LLM Reasoning and Agentic Systems:** multi-turn reasoning, reinforcement learning for LLMs, and agentic systems
+- **LLM Reasoning:** long-horizon and multi-turn reasoning
+- **Agentic Systems:** adaptive orchestration
 - **LLM Evaluation:** capabilities, efficiency, reliability, and robustness
 
 ## News
