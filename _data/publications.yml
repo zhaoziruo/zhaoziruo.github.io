@@ -1,12 +1,11 @@
 main:
-
+   
   - title: "Towards Fine-grained and Robust Detection of Human–AI Co-authorship"
     authors: "<strong>Ziruo Zhao</strong>, Jie Fu, Wendy Hui Wang, Zining Zhu"
     conference: "Findings of the Conference on Empirical Methods in Natural Language Processing <strong>(EMNLP)</strong>, 2026."
-    #pdf: https://arxiv.org/pdf/2306.00988.pdf
-    #code: https://github.com/MrGiovanni/ContinualLearning
-    #bibtex: https://bib.yliu.me/MICCAI23.txt
-    #notes: Accepted
+    pdf: https://aclanthology.org/2026.findings-emnlp.1365.pdf
+    #bibtex: https://aclanthology.org/2026.findings-emnlp.1365.bib
+
 
   - title: "Contrastive Learning with Nasty Noise"
     authors: "<strong>Ziruo Zhao</strong>"
